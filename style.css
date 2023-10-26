@@ -1,0 +1,8 @@
+.text {
+    padding: 10px 20px 0px 20px;
+    text-align: justify;
+    margin: 0 auto;
+    font-family: sans-serif;
+    color: darkgray;
+    font-size: 18px;
+}
